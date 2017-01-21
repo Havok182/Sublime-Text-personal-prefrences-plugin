@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/base16-atelier-savanna (SL).tmTheme",
+	"font_face": "Operator Mono Medium",
+	"font_options":
+	[
+		"italic",
+		"gray_antialias",
+		"subpixel_antialias",
+		"directwrite"
+	],
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Seti.sublime-theme"
+}

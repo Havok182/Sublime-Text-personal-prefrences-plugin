@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Agila Theme",
+		"Autoprefixer",
+		"ayu",
+		"Base16 Color Schemes",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Bubububububad and Boneyfied Color Schemes",
+		"ColorSchemeSelector",
+		"CSScomb",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"MarkdownEditing",
+		"Material Theme",
+		"Package Control",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-lessc",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"Theme - Brogrammer",
+		"Theme - SoDaReloaded",
+		"Theme - Spacegray",
+		"Themr",
+		"zz File Icons"
+	]
+}
